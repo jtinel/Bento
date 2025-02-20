@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -171,40 +171,40 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'briefcase-business',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ConnectWise',
+					link: 'https://na.myconnectwise.net/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NinjaOne',
+					link: 'https://app.ninjarmm.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'BitWarden',
+					link: 'https://vault.bitwarden.com/',
 				},
 				{
 					name: 'Rock',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Linkedin2',
-					link: 'https://www.linkedin.com',
+					name: 'Axcient Backup',
+					link: 'https://partner.axcient.com/',
 				},
 				{
-					name: 'Dribbble2',
-					link: 'https://www.dribbble.com',
+					name: 'Datto Backup',
+					link: 'https://portal.dattobackup.com/device/status/combined',
 				},
 				{
-					name: 'Trello2',
-					link: 'https://www.trello.com',
+					name: 'SentinelOne - Ninja',
+					link: 'https://usea1-ninjaone2.sentinelone.net/',
 				},
 				{
-					name: 'Slack2',
-					link: 'https://www.slack.com',
+					name: 'SentinelOne - Pax8 NFR',
+					link: 'https://usea1-300-nfr.sentinelone.net/',
 				},
 			],
 		},
@@ -212,6 +212,10 @@ const CONFIG = {
 			icon: 'coffee',
 			id: '2',
 			links: [
+				{
+					name: 'Pax8',
+					link: 'https://app.pax8.com/',
+				},
 				{
 					name: 'Linkedin',
 					link: 'https://www.linkedin.com',
