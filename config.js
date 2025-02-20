@@ -187,9 +187,23 @@ const CONFIG = {
 					link: 'https://vault.bitwarden.com/',
 				},
 				{
-					name: 'Barracuda MSP App',
-					link: 'https://manage.msp.barracudanetworks.com/',
+					name: 'SentinelOne - Ninja',
+					link: 'https://usea1-ninjaone2.sentinelone.net/',
 				},
+				{
+					name: 'SentinelOne - Pax8',
+					link: 'https://usea1-300-nfr.sentinelone.net/',
+				},
+				{
+					name: 'Brightgauge',
+					link: 'https://csenj.brightgauge.co/overview/',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
 				{
 					name: 'Axcient Backup',
 					link: 'https://partner.axcient.com/',
@@ -199,56 +213,13 @@ const CONFIG = {
 					link: 'https://portal.dattobackup.com/device/status/combined',
 				},
 				{
-					name: 'SentinelOne - Ninja',
-					link: 'https://usea1-ninjaone2.sentinelone.net/',
-				},
-				{
-					name: 'SentinelOne - Pax8',
-					link: 'https://usea1-300-nfr.sentinelone.net/',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
 					name: 'Pax8',
 					link: 'https://app.pax8.com/',
 				},
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Barracuda MSP App',
+					link: 'https://manage.msp.barracudanetworks.com/',
 				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-				{
-					name: 'Linkedin2',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble2',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello2',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack2',
-					link: 'https://www.slack.com',
-				},
-
 			],
 		},
 	],
