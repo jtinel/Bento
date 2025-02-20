@@ -190,6 +190,22 @@ const CONFIG = {
 					name: 'Rock',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
+				{
+					name: 'Linkedin2',
+					link: 'https://www.linkedin.com',
+				},
+				{
+					name: 'Dribbble2',
+					link: 'https://www.dribbble.com',
+				},
+				{
+					name: 'Trello2',
+					link: 'https://www.trello.com',
+				},
+				{
+					name: 'Slack2',
+					link: 'https://www.slack.com',
+				},
 			],
 		},
 		{
