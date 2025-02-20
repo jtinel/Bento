@@ -187,8 +187,8 @@ const CONFIG = {
 					link: 'https://vault.bitwarden.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Barracuda MSP App',
+					link: 'https://manage.msp.barracudanetworks.com/',
 				},
 				{
 					name: 'Axcient Backup',
@@ -203,7 +203,7 @@ const CONFIG = {
 					link: 'https://usea1-ninjaone2.sentinelone.net/',
 				},
 				{
-					name: 'SentinelOne - Pax8 NFR',
+					name: 'SentinelOne - Pax8',
 					link: 'https://usea1-300-nfr.sentinelone.net/',
 				},
 			],
