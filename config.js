@@ -71,6 +71,18 @@ const CONFIG = {
 		},
 		{
 			id: '4',
+			name: 'CSE Wiki',
+			icon: 'book-open-text',
+			link: 'https://csenj.sharepoint.com/sites/csewiki/SitePages/CollabHome.aspx',
+		},
+		{
+			id: '5',
+			name: 'Axcient',
+			icon: 'database-backup',
+			link: 'https://partner.axcient.com/',
+		},
+		{
+			id: '6',
 			name: 'BrightGauge',
 			icon: 'circle-gauge',
 			link: 'https://csenj.brightgauge.co/overview/',
@@ -127,20 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'CSE WIKI',
-					link: 'https://csenj.sharepoint.com/sites/csewiki/SitePages/CollabHome.aspx',
-				},
-				{
 					name: 'SentinelOne - Ninja',
 					link: 'https://usea1-ninjaone2.sentinelone.net/',
 				},
 				{
 					name: 'SentinelOne - Pax8',
 					link: 'https://usea1-300-nfr.sentinelone.net/',
-				},
-				{
-					name: 'Brightgauge',
-					link: 'https://csenj.brightgauge.co/overview/',
 				},
 				{
 					name: 'Pax8',
@@ -157,10 +161,6 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Axcient Backup',
-					link: 'https://partner.axcient.com/',
-				},
-				{
 					name: 'Ninja SaaS Backup',
 					link: 'https://na-saas-npp.backup.ninjarmm.com/dashboard',
 				},
@@ -175,10 +175,6 @@ const CONFIG = {
 				{
 					name: 'Cloudflare',
 					link: 'https://dash.cloudflare.com/',
-				},
-				{
-					name: 'Brightgauge',
-					link: 'https://csenj.brightgauge.co/overview/',
 				},
 			],
 		},
