@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'BrightGauge',
+			icon: 'circle-gauge',
+			link: 'https://csenj.brightgauge.co/overview/',
 		},
 		{
 			id: '6',
@@ -101,6 +101,24 @@ const CONFIG = {
 		},
 		{
 			id: '9',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '10',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '11',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '12',
 			name: 'Odysee',
 			icon: 'youtube',
 			link: 'https://odysee.com/',
