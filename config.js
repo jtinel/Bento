@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'ConnectWise',
+			icon: 'school',
+			link: 'https://na.myconnectwise.net/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'NinjaRMM',
+			icon: 'tv-minimal',
+			link: 'https://app.ninjarmm.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'BitWarden',
+			icon: 'earth-lock',
+			link: 'https://vault.bitwarden.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Axcient',
+			icon: 'database-backup',
+			link: 'https://partner.axcient.com/',
 		},
 		{
 			id: '5',
@@ -195,19 +195,19 @@ const CONFIG = {
 					link: 'https://www.slack.com',
 				},
 				{
-					name: 'Linkedin',
+					name: 'Linkedin2',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
+					name: 'Dribbble2',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
+					name: 'Trello2',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
+					name: 'Slack2',
 					link: 'https://www.slack.com',
 				},
 
