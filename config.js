@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -71,57 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Axcient',
-			icon: 'database-backup',
-			link: 'https://partner.axcient.com/',
-		},
-		{
-			id: '5',
 			name: 'BrightGauge',
 			icon: 'circle-gauge',
 			link: 'https://csenj.brightgauge.co/overview/',
-		},
-		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '7',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '8',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '9',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '10',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '11',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-		{
-			id: '12',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
 		},
 	],
 
@@ -215,6 +167,10 @@ const CONFIG = {
 				{
 					name: 'Datto Backup',
 					link: 'https://portal.dattobackup.com/device/status/combined',
+				},
+				{
+					name: 'Arcserve Management Portal',
+					link: 'https://partners.storagecraft.com/partners/',
 				},
 				{
 					name: 'Pax8',
