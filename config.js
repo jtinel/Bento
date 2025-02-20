@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -150,6 +150,14 @@ const CONFIG = {
 					name: 'Brightgauge',
 					link: 'https://csenj.brightgauge.co/overview/',
 				},
+				{
+					name: 'Brightgauge',
+					link: 'https://csenj.brightgauge.co/overview/',
+				},
+				{
+					name: 'Brightgauge',
+					link: 'https://csenj.brightgauge.co/overview/',
+				},
 			],
 		},
 		{
@@ -183,6 +191,10 @@ const CONFIG = {
 				{
 					name: 'Cloudflare',
 					link: 'https://dash.cloudflare.com/',
+				},
+				{
+					name: 'Brightgauge',
+					link: 'https://csenj.brightgauge.co/overview/',
 				},
 			],
 		},
