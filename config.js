@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '39.35859397882456',
-	defaultLongitude: '-74.56670950716753',
+	defaultLatitude: '39.35',
+	defaultLongitude: '-74.56',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -127,16 +127,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'ConnectWise',
-					link: 'https://na.myconnectwise.net/',
-				},
-				{
-					name: 'NinjaOne',
-					link: 'https://app.ninjarmm.com/',
-				},
-				{
-					name: 'BitWarden',
-					link: 'https://vault.bitwarden.com/',
+					name: 'CSE WIKI',
+					link: 'https://csenj.sharepoint.com/sites/csewiki/SitePages/CollabHome.aspx',
 				},
 				{
 					name: 'SentinelOne - Ninja',
@@ -151,12 +143,12 @@ const CONFIG = {
 					link: 'https://csenj.brightgauge.co/overview/',
 				},
 				{
-					name: 'Brightgauge',
-					link: 'https://csenj.brightgauge.co/overview/',
+					name: 'Pax8',
+					link: 'https://app.pax8.com/',
 				},
 				{
-					name: 'Brightgauge',
-					link: 'https://csenj.brightgauge.co/overview/',
+					name: 'Barracuda MSP App',
+					link: 'https://manage.msp.barracudanetworks.com/',
 				},
 			],
 		},
@@ -169,7 +161,7 @@ const CONFIG = {
 					link: 'https://partner.axcient.com/',
 				},
 				{
-					name: 'Ninja SaaS Backup Partner Portal',
+					name: 'Ninja SaaS Backup',
 					link: 'https://na-saas-npp.backup.ninjarmm.com/dashboard',
 				},
 				{
@@ -177,16 +169,8 @@ const CONFIG = {
 					link: 'https://portal.dattobackup.com/device/status/combined',
 				},
 				{
-					name: 'Arcserve Management Portal',
+					name: 'Arcserve Backup',
 					link: 'https://partners.storagecraft.com/partners/',
-				},
-				{
-					name: 'Pax8',
-					link: 'https://app.pax8.com/',
-				},
-				{
-					name: 'Barracuda MSP App',
-					link: 'https://manage.msp.barracudanetworks.com/',
 				},
 				{
 					name: 'Cloudflare',
