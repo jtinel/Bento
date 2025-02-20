@@ -31,9 +31,9 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '39.35859397882456',
+	defaultLongitude: '-74.56670950716753',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -83,6 +83,24 @@ const CONFIG = {
 		},
 		{
 			id: '6',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '7',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '8',
+			name: 'Odysee',
+			icon: 'youtube',
+			link: 'https://odysee.com/',
+		},
+		{
+			id: '9',
 			name: 'Odysee',
 			icon: 'youtube',
 			link: 'https://odysee.com/',
