@@ -201,12 +201,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'database-backup',
 			id: '2',
 			links: [
 				{
 					name: 'Axcient Backup',
 					link: 'https://partner.axcient.com/',
+				},
+				{
+					name: 'Ninja SaaS Backup Partner Portal',
+					link: 'https://na-saas-npp.backup.ninjarmm.com/dashboard',
 				},
 				{
 					name: 'Datto Backup',
@@ -219,6 +223,10 @@ const CONFIG = {
 				{
 					name: 'Barracuda MSP App',
 					link: 'https://manage.msp.barracudanetworks.com/',
+				},
+				{
+					name: 'Cloudflare',
+					link: 'https://dash.cloudflare.com/',
 				},
 			],
 		},
