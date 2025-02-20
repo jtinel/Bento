@@ -11,8 +11,8 @@ const generateFirstButtonsContainer = () => {
           target="${CONFIG.openInNewTab ? '_blank' : ''}"
           class="card button button__${button.id}"
         >
-          <i class="buttonIcon" icon-name="${button.icon}"></i>
-        </a>${button.name}
+          <i class="buttonIcon" icon-name="${button.icon}" title=${button.name}></i>
+        </a>
     `;
 
 		const position = 'beforeend';
