@@ -38,16 +38,6 @@ const generateFirstListsContainer = () => {
           href="${list.links[5].link}"
           class="listItem"
           >${list.links[5].name}</a>
-          <a
-          target="${CONFIG.openInNewTab ? '_blank' : ''}"
-          href="${list.links[6].link}"
-          class="listItem"
-          >${list.links[6].name}</a>
-          <a
-          target="${CONFIG.openInNewTab ? '_blank' : ''}"
-          href="${list.links[7].link}"
-          class="listItem"
-          >${list.links[7].name}</a>
         </div>
       `;
 		const position = 'beforeend';
